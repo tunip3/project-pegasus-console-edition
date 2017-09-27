@@ -1,0 +1,6 @@
+C:\Users\ledlo\Desktop\ProjectPegasus-master\Project_Pegasus\bin\Debug\Project_Pegasus.exe.config
+C:\Users\ledlo\Desktop\ProjectPegasus-master\Project_Pegasus\bin\Debug\Project_Pegasus.exe
+C:\Users\ledlo\Desktop\ProjectPegasus-master\Project_Pegasus\bin\Debug\Project_Pegasus.pdb
+C:\Users\ledlo\Desktop\ProjectPegasus-master\Project_Pegasus\obj\Debug\Project_Pegasus.csprojResolveAssemblyReference.cache
+C:\Users\ledlo\Desktop\ProjectPegasus-master\Project_Pegasus\obj\Debug\Project_Pegasus.exe
+C:\Users\ledlo\Desktop\ProjectPegasus-master\Project_Pegasus\obj\Debug\Project_Pegasus.pdb
